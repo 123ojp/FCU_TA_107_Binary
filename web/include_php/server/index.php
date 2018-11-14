@@ -26,14 +26,14 @@
 <header id="header" class="site-header" role="banner">
 	<div id="header-inner" class="container sixteen columns over">
 		<hgroup class="one-third column alpha">
-			<h1 id="site-title" class="site-title"> <a href="index.html" id="logo"><img src="images/icebrrrg-logo.png" alt="Icebrrrg logo" height="63" width="157" /></a> </h1>
+			<h1 id="site-title" class="site-title"> <a href="/" id="logo"><img src="images/icebrrrg-logo.png" alt="Icebrrrg logo" height="63" width="157" /></a> </h1>
 		</hgroup>
 		<nav id="main-nav" class="two thirds column omega">
 			<ul id="main-nav-menu" class="nav-menu">
 				<li id="menu-item-1" > <a href="/">首頁</a> </li>
-				<li id="menu-item-2"> <a href="/?page=about">關於</a> </li>
-				<li id="menu-item-3"> <a href="/?page=info">資訊</a> </li>
-				<li id="menu-item-3"> <a href="/?page=handsome">講師</a> </li>
+				<li id="menu-item-2"> <a href="/?page=about.php">關於</a> </li>
+				<li id="menu-item-3"> <a href="/?page=info.php">資訊</a> </li>
+				<li id="menu-item-3"> <a href="/?page=handsome.php">講師</a> </li>
 			</ul>
 		</nav>
 	</div>
