@@ -19,7 +19,6 @@ int main(){
 	char buf[0x20];
 	setvbuf(stdout,0,2,0);
 	printf("Read your input:");
-        puts(buf);
 	read(0,buf,100);
 	return 0 ;
 }
