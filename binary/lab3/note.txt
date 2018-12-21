@@ -1,0 +1,2 @@
+gcc -g -m32 -fno-stack-protector -z execstack lab3.c  -o lab3.out 
+
